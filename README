@@ -32,8 +32,8 @@ ssh-keygen -t rsa -C "your_email@youremail.com"
 Global setup:
 
  Set up git
-  git config --global user.name "David chen"
-  git config --global user.email chengs99@gmail.com
+  git config --global user.name "Name"
+  git config --global user.email your_email@youremail.com
       
 
 Next steps:
@@ -44,7 +44,7 @@ Next steps:
   touch README
   git add README
   git commit -m 'first commit'
-  git remote add origin git@github.com:GuosongChen/ml_class.git
+  git remote add origin git@github.com:Name/ml_class.git
   git push -u origin master
       
 
