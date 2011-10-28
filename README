@@ -8,3 +8,14 @@ https://www.ai-class.com/
 #Machine Learning:
 ########################################################
 http://www.cs.cmu.edu/~tom/mlbook.html
+
+#Many more papers, all co-authored by prof. Andrew Ng
+http://ai.stanford.edu/~ang/papers.php
+
+#Example of ML for Stock Prediction 
+The Paper: http://www.vatsals.com/Essays/MachineLearningTechniquesforStockPrediction.pdf
+The Implementation: http://www.stoocker.com/About.aspx
+
+
+# octave debug mode
+http://www.gnu.org/software/octave/doc/interpreter/Debug-Mode.html
