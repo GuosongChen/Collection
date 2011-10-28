@@ -19,3 +19,38 @@ The Implementation: http://www.stoocker.com/About.aspx
 
 # octave debug mode
 http://www.gnu.org/software/octave/doc/interpreter/Debug-Mode.html
+
+
+
+
+
+######################
+### github.com
+#####################
+ssh-keygen -t rsa -C "your_email@youremail.com"
+
+Global setup:
+
+ Set up git
+  git config --global user.name "David chen"
+  git config --global user.email chengs99@gmail.com
+      
+
+Next steps:
+
+  mkdir ml_class
+  cd ml_class
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:GuosongChen/ml_class.git
+  git push -u origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin git@github.com:GuosongChen/ml_class.git
+  git push -u origin master
+      
